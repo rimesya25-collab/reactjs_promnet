@@ -36,12 +36,12 @@ function App() {
 
         <div className="card">
           <p><b>Nama</b> : Rifdha Medina</p>
-          <p><b>NIM</b> : 2400000</p>
+          <p><b>NIM</b> : 2503127</p>
           <p><b>Program Studi</b> : Pendidikan Ilmu Komputer</p>
           <p><b>Universitas</b> : Universitas Pendidikan Indonesia</p>
-          <p><b>Tempat, Tanggal Lahir</b> : Bandung, 00 Januari 2006</p>
-          <p><b>Alamat</b> : Bandung, Jawa Barat</p>
-          <p><b>Email</b> : rifdha@email.com</p>
+          <p><b>Tempat, Tanggal Lahir</b> : Cirebon, 25 Oktober 2007</p>
+          <p><b>Alamat</b> : Sumber, Cirebon, Jawa Barat</p>
+          <p><b>Email</b> : rimesya25@email.com</p>
           <p><b>Hobi</b> : Mendengarkan musik dan menonton film</p>
         </div>
       </section>
@@ -50,10 +50,9 @@ function App() {
         <h2>Tentang Saya</h2>
 
         <p>
-          Saya adalah mahasiswa Pendidikan Ilmu Komputer yang sedang
-          mempelajari berbagai hal tentang teknologi dan pemrograman.
-          Saya senang mencoba hal-hal baru dan terus belajar untuk
-          mengembangkan kemampuan saya.
+          Saya adalah mahasiswa Pendidikan Ilmu Komputer 
+          di Universitas Pendidikan Indonesia 
+          angkatan 2025.
         </p>
       </section>
 
